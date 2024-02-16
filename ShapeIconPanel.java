@@ -14,6 +14,7 @@ public class ShapeIconPanel extends JPanel {
         imgs.add(new PluteIcon(30,50));
         imgs.add(new EarthIcon(100));
         //add your Icons here.
+        imgs.add(new EarthIcon(100));
 
 
         this.setPreferredSize(new Dimension(500, 250));

@@ -11,6 +11,7 @@ public class ShapeIconPanel extends JPanel {
 
         imgs.add(new MarsIcon(50));
         imgs.add(new HunterIcon(50));
+        imgs.add(new PluteIcon(30,50));
         //add your Icons here.
 
 
